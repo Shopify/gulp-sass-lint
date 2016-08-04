@@ -24,7 +24,7 @@
   "homepage": "https://github.com/sasstools/gulp-sass-lint#readme",
   "dependencies": {
     "gulp-util": "^3.0.6",
-    "sass-lint": "github:shopify/sass-lint",
+    "sass-lint": "git://github.com/shopify/sass-lint#131d50193e18c1638c3ff3ee9a6353e1bf8862c0",
     "through2": "^2.0.0"
   },
   "devDependencies": {
